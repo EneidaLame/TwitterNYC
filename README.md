@@ -5,7 +5,7 @@ The perpose of this project is to collect tweets from an API beased on keywords.
 
 ## Features
 
- A live stream of tweets based of user and keywords
+ A live stream of tweets based on user and keywords
  
 
 ## Authors
