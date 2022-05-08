@@ -14,3 +14,7 @@ The perpose of this project is to collect tweets from an API beased on keywords.
 - [@VaiosKaraoulis](https://github.com/Voiskar)
 - [@ManolisKosmatos](https://github.com/chayoz)
 - [@EneidaLame](https://github.com/EneidaLame)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
